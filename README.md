@@ -1,6 +1,7 @@
 # Prometheus, Grafana, and Alertmanager Setup Guide on Ubuntu
 ## MY DASHBOARD
 ![Banner](grafana.jpeg)
+
 This guide walks you through the installation and setup of **Prometheus**, **Grafana**, and **Alertmanager** on Ubuntu. You will also learn how to monitor a Flask API and configure alert rules for performance and memory usage.
 
 ## Prerequisites
